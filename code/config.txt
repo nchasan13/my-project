@@ -1,0 +1,8 @@
+video/video_01.mp4
+best.pt
+0.5
+20
+0: Mashed Potato, Chicken and Carrot
+video/video_03.mp4
+best.pt
+yolov8n-seg.pt
